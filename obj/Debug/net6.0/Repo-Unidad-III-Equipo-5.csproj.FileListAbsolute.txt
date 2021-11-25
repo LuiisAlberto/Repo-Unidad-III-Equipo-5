@@ -1,0 +1,15 @@
+C:\Repo-Unidad-III-Equipo-5\bin\Debug\net6.0\Repo-Unidad-III-Equipo-5.exe
+C:\Repo-Unidad-III-Equipo-5\bin\Debug\net6.0\Repo-Unidad-III-Equipo-5.deps.json
+C:\Repo-Unidad-III-Equipo-5\bin\Debug\net6.0\Repo-Unidad-III-Equipo-5.runtimeconfig.json
+C:\Repo-Unidad-III-Equipo-5\bin\Debug\net6.0\Repo-Unidad-III-Equipo-5.dll
+C:\Repo-Unidad-III-Equipo-5\bin\Debug\net6.0\ref\Repo-Unidad-III-Equipo-5.dll
+C:\Repo-Unidad-III-Equipo-5\bin\Debug\net6.0\Repo-Unidad-III-Equipo-5.pdb
+C:\Repo-Unidad-III-Equipo-5\obj\Debug\net6.0\Repo-Unidad-III-Equipo-5.csproj.AssemblyReference.cache
+C:\Repo-Unidad-III-Equipo-5\obj\Debug\net6.0\Repo-Unidad-III-Equipo-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo-Unidad-III-Equipo-5\obj\Debug\net6.0\Repo-Unidad-III-Equipo-5.AssemblyInfoInputs.cache
+C:\Repo-Unidad-III-Equipo-5\obj\Debug\net6.0\Repo-Unidad-III-Equipo-5.AssemblyInfo.cs
+C:\Repo-Unidad-III-Equipo-5\obj\Debug\net6.0\Repo-Unidad-III-Equipo-5.csproj.CoreCompileInputs.cache
+C:\Repo-Unidad-III-Equipo-5\obj\Debug\net6.0\Repo-Unidad-III-Equipo-5.dll
+C:\Repo-Unidad-III-Equipo-5\obj\Debug\net6.0\ref\Repo-Unidad-III-Equipo-5.dll
+C:\Repo-Unidad-III-Equipo-5\obj\Debug\net6.0\Repo-Unidad-III-Equipo-5.pdb
+C:\Repo-Unidad-III-Equipo-5\obj\Debug\net6.0\Repo-Unidad-III-Equipo-5.genruntimeconfig.cache
